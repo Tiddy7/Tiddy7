@@ -11,7 +11,7 @@
 
 **Fale comigo**
 
--Caso queira falar comigo pode me mandar um email nessa conta aqui: vitor.agoncalves12@gmail.com
+- Caso queira falar comigo pode me mandar um email nessa conta aqui: vitor.agoncalves12@gmail.com
 
 ----
 
