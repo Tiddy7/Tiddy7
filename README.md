@@ -26,4 +26,4 @@
 ---
 
 ## ⭐ Informações sobre minha conta GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pTiddy7&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tiddy7&show_icons=true)
